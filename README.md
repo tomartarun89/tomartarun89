@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tomartarun@protonmail.com**
 
-- 👨‍💻 Know about me [www.taruntomar.com](www.taruntomar.com)
+- 👨‍💻 Know about me www.taruntomar.com
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
