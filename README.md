@@ -5,10 +5,6 @@
 
 - 💬 Ask me about **Spring Framework, ReactJs, Angular, Postgresql**
 
-- 📫 How to reach me **tomartarun@protonmail.com**
-
-- 👨‍💻 Know about me www.taruntomar.com
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/tarun89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tarun89" height="30" width="40" /></a>
